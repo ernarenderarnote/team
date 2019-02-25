@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FileZilla3 version="3.25.2" platform="windows">
+	<Servers>
+		<Server>
+			<Host>i9signs.com</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>dynamiksigns</User>
+			<Pass encoding="base64">RU1pOW5reiNZV2VXbUxXJGxK</Pass>
+			<Logontype>1</Logontype>
+			<TimezoneOffset>0</TimezoneOffset>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>0</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>dynamik</Name>
+			<Comments />
+			<Colour>0</Colour>
+			<LocalDir />
+			<RemoteDir />
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>dynamik</Server>
+		<Server>
+			<Host>159.203.39.101</Host>
+			<Port>22</Port>
+			<Protocol>1</Protocol>
+			<Type>0</Type>
+			<User>root</User>
+			<Pass encoding="base64">MTkxYzVhYzYxMWI5ZTkwNzA=</Pass>
+			<Logontype>1</Logontype>
+			<TimezoneOffset>0</TimezoneOffset>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>0</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>expresswritters</Name>
+			<Comments />
+			<Colour>0</Colour>
+			<LocalDir />
+			<RemoteDir />
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>expresswritters</Server>
+		<Server>
+			<Host>ecbiz219.inmotionhosting.com</Host>
+			<Port>21</Port>
+			<Protocol>0</Protocol>
+			<Type>0</Type>
+			<User>techsp12</User>
+			<Pass encoding="base64">c3BhcmtzdGVjaEAxMjM0NQ==</Pass>
+			<Logontype>1</Logontype>
+			<TimezoneOffset>0</TimezoneOffset>
+			<PasvMode>MODE_DEFAULT</PasvMode>
+			<MaximumMultipleConnections>0</MaximumMultipleConnections>
+			<EncodingType>Auto</EncodingType>
+			<BypassProxy>0</BypassProxy>
+			<Name>techsparksit</Name>
+			<Comments />
+			<Colour>0</Colour>
+			<LocalDir />
+			<RemoteDir />
+			<SyncBrowsing>0</SyncBrowsing>
+			<DirectoryComparison>0</DirectoryComparison>techsparksit</Server>
+	</Servers>
+</FileZilla3>
